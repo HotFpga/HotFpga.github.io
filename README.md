@@ -1,1 +1,1 @@
-# HotFpga.github.io
+# hotfpga.github.io
